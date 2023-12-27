@@ -10,7 +10,7 @@ const App = () => {
     <Header />
     <main>
       <Container>
-       <h1>Welcome to my shop!</h1>
+       <HomeScreen />
       </Container>
     </main>
     <Footer />
