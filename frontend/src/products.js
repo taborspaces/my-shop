@@ -29,7 +29,7 @@ const products = [
 
     _id: '3',
     name: 'Hiking Pants', 
-    image: '/images/Pants.jpg', 
+    image: '/images/Shirt1Small.jpeg', 
     description: 
     'Tan hiking pants with waterproof techology.',
     brand: 'REI', 
@@ -41,8 +41,8 @@ const products = [
 
 { 
     _id: '4',
-    name: 'Wool Socks', 
-    image: '/images/Socks.jpg', 
+    name: 'Rain Jacket', 
+    image: '/images/Coat.jpeg', 
     description: 
     'Wool socks made for any outdoor activity.',
     brand: 'REI', 
@@ -52,5 +52,34 @@ const products = [
     numReviews: 14,
 
 },
+
+{
+    _id: '5',
+    name: 'Pants', 
+    image: '/images/Pants1.jpg', 
+    description: 
+    'Wool socks made for any outdoor activity.',
+    brand: 'REI', 
+    category: 'Clothing',
+    price: 25.00, 
+    rating: 4.9,
+    numReviews: 14,
+
+},
+
+{
+    _id: '6',
+    name: 'Pants', 
+    image: '/images/Shorts1.jpeg', 
+    description: 
+    'Wool socks made for any outdoor activity.',
+    brand: 'REI', 
+    category: 'Clothing',
+    price: 25.00, 
+    rating: 4.9,
+    numReviews: 14,
+
+},
+
 ]
 export default products
