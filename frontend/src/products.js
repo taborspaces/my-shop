@@ -1,37 +1,35 @@
 const products = [
 {
     _id: '1',
-    name: 'Blue Jacket', 
+    name: 'Essential Jogger', 
     image: '/images/Jacket.jpg', 
     description: 
-    'Beautiful blue jacket with a windbreak techology.',
+    'Introducing our latest Premium Performance Jogger Jacket, the perfect blend of style and functionality for your active lifestyle.',
     brand: 'REI', 
     category: 'Clothing',
-    price: 95.99, 
+    price: 105., 
     rating: 4.9,
     numReviews: 13,
 }, 
 {
     _id: '2',
-    name: 'Green Jacket', 
+    name: 'Full-Zip Hoodie', 
     image: '/images/Jacket2.jpg', 
     description: 
-    'Dark green jacket with a windbreak techology.',
+    'Embrace comfort and style with our Classic Green Full-Zip Hoodie - the perfect addition to your casual wardrobe.',
     brand: 'REI', 
     category: 'Clothing',
-    price: 95.99, 
+    price: 95.00, 
     rating: 4.5,
     numReviews: 10,
-
 },
 
 {
-
     _id: '3',
-    name: 'Hiking Pants', 
+    name: 'Basic T-shirt', 
     image: '/images/Shirt1Small.jpeg', 
     description: 
-    'Tan hiking pants with waterproof techology.',
+    'This t-shirt is a must-have for those who appreciate simplicity and versatility. Order yours today and experience the ease of effortless style.',
     brand: 'REI', 
     category: 'Clothing',
     price: 110.00, 
@@ -44,10 +42,10 @@ const products = [
     name: 'Rain Jacket', 
     image: '/images/Coat.jpeg', 
     description: 
-    'Wool socks made for any outdoor activity.',
+    'Prepare for the rainy season with our Classic Waterproof Rain Jacket. Stay dry, comfortable, and stylish no matter the weather.',
     brand: 'REI', 
     category: 'Clothing',
-    price: 25.00, 
+    price: 140.00, 
     rating: 4.9,
     numReviews: 14,
 
@@ -55,13 +53,13 @@ const products = [
 
 {
     _id: '5',
-    name: 'Pants', 
+    name: 'Waterproof Pants', 
     image: '/images/Pants1.jpg', 
     description: 
-    'Wool socks made for any outdoor activity.',
+    'Gear up for any adventure with our Ultra-Light Waterproof Pants. Stay dry, comfortable, and stylish with this essential addition.',
     brand: 'REI', 
     category: 'Clothing',
-    price: 25.00, 
+    price: 95.00, 
     rating: 4.9,
     numReviews: 14,
 
@@ -69,16 +67,15 @@ const products = [
 
 {
     _id: '6',
-    name: 'Pants', 
+    name: 'All-Purpose Shorts', 
     image: '/images/Shorts1.jpeg', 
     description: 
-    'Wool socks made for any outdoor activity.',
+    'Meet your new wardrobe essential - the Everyday Comfort All-Purpose Shorts. Designed for versatility and comfort, these shorts are your go-to choice for a wide range of activities.',
     brand: 'REI', 
     category: 'Clothing',
-    price: 25.00, 
+    price: 65.00, 
     rating: 4.9,
     numReviews: 14,
-
 },
 
 ]
