@@ -4,7 +4,7 @@
   "description": "MERN Shopping ",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node backend/server.js"
   },
   "repository": {
     "type": "git",
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/taborspaces/my-shop/issues"
   },
-  "homepage": "https://github.com/taborspaces/my-shop#readme",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "homepage": "https://github.com/taborspaces/my-shop#readme"
 }
