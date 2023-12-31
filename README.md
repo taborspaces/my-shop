@@ -1,4 +1,4 @@
-This project is based of Kal's lectures 12.03. through 12.17. Made modifications. 
+This project is based on Kal's lectures 12.03. through 12.17. Made modifications. 
 
 
 # Getting Started with Create React App
