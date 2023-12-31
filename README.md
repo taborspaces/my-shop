@@ -1,3 +1,6 @@
+This project is based of Kal's lectures 12.03. through 12.17. Made modifications. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
