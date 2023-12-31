@@ -9,7 +9,7 @@ const products = [
     category: 'Clothing',
     price: 105., 
     rating: 5,
-    numReviews: 13,
+    numReviews: 80,
 }, 
 {
     _id: '2',
@@ -21,7 +21,7 @@ const products = [
     category: 'Clothing',
     price: 95.00, 
     rating: 4.5,
-    numReviews: 10,
+    numReviews: 78,
 },
 
 {
@@ -34,7 +34,7 @@ const products = [
     category: 'Clothing',
     price: 110.00, 
     rating: 4.6,
-    numReviews: 5,
+    numReviews: 97,
 }, 
 
 { 
@@ -47,7 +47,7 @@ const products = [
     category: 'Clothing',
     price: 140.00, 
     rating: 4.9,
-    numReviews: 14,
+    numReviews: 34,
 
 },
 
@@ -61,7 +61,7 @@ const products = [
     category: 'Clothing',
     price: 95.00, 
     rating: 4.9,
-    numReviews: 14,
+    numReviews: 52,
 
 },
 
@@ -75,7 +75,7 @@ const products = [
     category: 'Clothing',
     price: 65.00, 
     rating: 4.9,
-    numReviews: 14,
+    numReviews: 20,
 },
 
 ]
