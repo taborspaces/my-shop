@@ -15,7 +15,7 @@ const products = [
     _id: '2',
     name: 'Full-Zip Hoodie', 
     image: '/images/Jacket2.jpg', 
-    description: 
+    descriptiosn: 
     'Embrace comfort and style with our Classic Green Full-Zip Hoodie - the perfect addition to your casual wardrobe.',
     brand: 'REI', 
     category: 'Clothing',
@@ -77,6 +77,6 @@ const products = [
     rating: 4.9,
     numReviews: 20,
 },
-
 ]
-export default products
+
+module.exports = products
