@@ -58,9 +58,8 @@ const Rating = ({value, text, color}) => {
                 ? 'fas fa-star-half-alt'
                 : 'far fa-star'
             }></i>
-            
         </span>
-
+        <span>{text}</span>
     </div>  
  )
 }

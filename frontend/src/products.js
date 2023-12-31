@@ -8,7 +8,7 @@ const products = [
     brand: 'REI', 
     category: 'Clothing',
     price: 105., 
-    ratings: 4.9,
+    rating: 5,
     numReviews: 13,
 }, 
 {
@@ -20,7 +20,7 @@ const products = [
     brand: 'REI', 
     category: 'Clothing',
     price: 95.00, 
-    ratings: 4.5,
+    rating: 4.5,
     numReviews: 10,
 },
 
@@ -33,7 +33,7 @@ const products = [
     brand: 'REI', 
     category: 'Clothing',
     price: 110.00, 
-    ratings: 4.6,
+    rating: 4.6,
     numReviews: 5,
 }, 
 
@@ -46,7 +46,7 @@ const products = [
     brand: 'REI', 
     category: 'Clothing',
     price: 140.00, 
-    ratings: 4.9,
+    rating: 4.9,
     numReviews: 14,
 
 },
@@ -60,7 +60,7 @@ const products = [
     brand: 'REI', 
     category: 'Clothing',
     price: 95.00, 
-    ratings: 4.9,
+    rating: 4.9,
     numReviews: 14,
 
 },
@@ -74,7 +74,7 @@ const products = [
     brand: 'REI', 
     category: 'Clothing',
     price: 65.00, 
-    ratings: 4.9,
+    rating: 4.9,
     numReviews: 14,
 },
 
