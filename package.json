@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "MERN Shopping ",
   "main": "server.js",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  },
   "scripts": {
     "start": "node backend/server.js"
   },
